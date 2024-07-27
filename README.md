@@ -1,8 +1,6 @@
-# excel_dashboard_store
-excel dashboard
-
 # Store Report 2022 - Interactive Excel Dashboard
 
+![image](https://github.com/user-attachments/assets/4db6e5fe-37af-4c52-b2ab-e5aad36caa25)
 
 ## Overview
 
@@ -37,7 +35,6 @@ The dashboard includes interactive filters to refine the data view:
 
 - `Vrinda Store Data Analysis.xlsx`: The main Excel dashboard file containing all sheets.
 - `README.md`: Project description and usage instructions.
-- `images/`: Directory containing images used in the project (e.g., screenshots of the dashboard).
 
 ## Contribution
 
